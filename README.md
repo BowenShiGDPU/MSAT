@@ -1,6 +1,7 @@
 # MSAT
 
-Multi-head Self-Attention Network for Traditional Chinese Medicine Safety Prediction
+AClinically Aligned Heterogeneous Graph Learning Framework for Predicting
+ Adverse Drug Reactions Induced by Chinese Materia Medica
 
 ---
 
